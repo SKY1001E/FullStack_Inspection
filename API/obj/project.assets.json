@@ -7495,11 +7495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProjects\\InspectionAPI\\API\\InspectionAPI.csproj",
+      "projectUniqueName": "E:\\MyProjects\\InspectionAPI\\api\\InspectionAPI.csproj",
       "projectName": "InspectionAPI",
-      "projectPath": "E:\\MyProjects\\InspectionAPI\\API\\InspectionAPI.csproj",
+      "projectPath": "E:\\MyProjects\\InspectionAPI\\api\\InspectionAPI.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProjects\\InspectionAPI\\API\\obj\\",
+      "outputPath": "E:\\MyProjects\\InspectionAPI\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XFeMs5JhaQkBb6YffetXybZuvWCW0F+sR8DBxGA6dQJMfQMVIbS5jzwNjwuFKUalHu6FDGdwhj4QX1CXIm8vvw==",
+  "dgSpecHash": "YUrcBipaiySXiNU9Uxn9YclZWFWxB5Z+wi4pofAaUs7/V8ovuJi0rA3H0Sgi2t+tmVSjt7Hj425355SqlkSjSQ==",
   "success": true,
-  "projectFilePath": "E:\\MyProjects\\InspectionAPI\\API\\InspectionAPI.csproj",
+  "projectFilePath": "E:\\MyProjects\\InspectionAPI\\api\\InspectionAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.9\\microsoft.aspnet.cors.5.2.9.nupkg.sha512",
