@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\[7] MyProjects\\[7] Deploy on GitHub\\API\\InspectionAPI.csproj": {}
+    "E:\\MyProjects\\InspectionAPI\\API\\InspectionAPI.csproj": {}
   },
   "projects": {
-    "E:\\[7] MyProjects\\[7] Deploy on GitHub\\API\\InspectionAPI.csproj": {
+    "E:\\MyProjects\\InspectionAPI\\API\\InspectionAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\[7] MyProjects\\[7] Deploy on GitHub\\API\\InspectionAPI.csproj",
+        "projectUniqueName": "E:\\MyProjects\\InspectionAPI\\API\\InspectionAPI.csproj",
         "projectName": "InspectionAPI",
-        "projectPath": "E:\\[7] MyProjects\\[7] Deploy on GitHub\\API\\InspectionAPI.csproj",
+        "projectPath": "E:\\MyProjects\\InspectionAPI\\API\\InspectionAPI.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "E:\\[7] MyProjects\\[7] Deploy on GitHub\\API\\obj\\",
+        "outputPath": "E:\\MyProjects\\InspectionAPI\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
