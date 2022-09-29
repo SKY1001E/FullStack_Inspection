@@ -1,0 +1,4 @@
+bin/
+obj/
+InspectionAPI.csproj
+InspectionAPI.csproj.user
